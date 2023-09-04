@@ -150,7 +150,7 @@ nav #close {
 
 .about .container .image {
     flex-basis: 40%;
-    height: 100%;
+    height: 100vh;
     margin: auto;
     content: url(./img/h.PNG);
     margin: auto;
